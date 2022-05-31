@@ -63,7 +63,6 @@ h6 {font-size:16px;}
     text-align:center;
     justify-content: center;
     align-content:center;
-    border:2px dashed #b69b01;
     min-height:10em;
 }
 
@@ -282,7 +281,6 @@ h6 {font-size:16px;}
     display: block;
     width: 100%;
     height: 180px;
-    object-fit: cover;
 }
 .post-preview {
     background-color: #fff;
