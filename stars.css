@@ -55,7 +55,7 @@
 .blackhole{
     background:transparent url("images/blackhole.jpg") no-repeat;
     z-index:2;
-    opacity: .1;
+    opacity: .25;
     background-size: 300px;
     top: 25%;
     height: auto;
