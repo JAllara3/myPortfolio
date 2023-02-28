@@ -299,6 +299,11 @@ h6 {font-size:16px;}
     color:#4b5156;
     font-size:14px;
 }
+.post-subtext {
+    color: #000;
+    font-size:12px;
+    margin: 0 auto;
+}
 #contact-form {
     display: block;
     max-width: 600px;
@@ -339,13 +344,13 @@ h6 {font-size:16px;}
 }
 
 @media screen and (max-width: 1200px){
-    .main-container{
+    .main-container {
         width:95%;
     }
 }
 
 @media screen and (max-width: 800px){
-    .intro-wrapper{
+    .intro-wrapper {
         grid-template-columns: 1fr;
         grid-template-areas:
             'navigation-wrapper'
@@ -353,13 +358,13 @@ h6 {font-size:16px;}
             'right-col'
         ;
     }
-    .right-col{
+    .right-col {
         justify-content: center;
     }
 }
 
 @media screen and (max-width: 500px){
-    #preview-shadow{
+    #preview-shadow {
         padding-left:10px;
         padding-top:10px;
     }
